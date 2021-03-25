@@ -1,5 +1,5 @@
 ### Olá  👋
-Bem vindo ao meu perfil ! 
+Bem vindo(a) ao meu perfil ! 
 
 Aqui você vai encontrar alguns dos meus estudos e projetos voltados a front-end, e um pouco back-end :)
 
