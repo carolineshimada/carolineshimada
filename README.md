@@ -1,4 +1,5 @@
-🇧🇷 
+🇧🇷 Versão Brasileira
+
 <h1> Olá 👋 Bem vindo(a) ao meu perfil ! </h1>
 
 Aqui você vai encontrar alguns dos meus estudos e projetos voltados a front-end, e um pouco de back-end :)
@@ -39,7 +40,7 @@ Aqui você vai encontrar alguns dos meus estudos e projetos voltados a front-end
 
 
 
-🇺🇸
+🇺🇸 English version
 
 <h1> Hi 👋 Welcome to my profile ! </h1>
 
