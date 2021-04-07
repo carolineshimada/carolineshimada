@@ -32,7 +32,13 @@ Aqui você vai encontrar alguns dos meus estudos e projetos voltados a front-end
 ![Postman](https://img.shields.io/badge/-Postman-2C2255?style=flat-square&logo=postman&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-heroku-2C2255?style=flat-square&logo=heroku&logoColor=white)
 
-<h1></h1>
+
+
+
+
+
+
+
 🇺🇸
 
 <h1> Hi 👋 Welcome to my profile ! </h1>
