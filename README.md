@@ -6,10 +6,10 @@ Aqui você vai encontrar alguns dos meus estudos e projetos voltados a front-end
 
 
 - 🔭 Atual estudante da Laboratória(bootcamp intensivo de 6 meses em programação front-end).
+- 🇧🇷 Brasil - São Paulo - Guarulhos
 - 🌱 Em meus estudos atualmente estou aprendendo mais sobre back-end(node.js, banco de dados).
 - 👯 Espero poder colaborar nos seus estudos =]
 
--->
 
 
 ## ⚡ Tecnologias utilizadas nos projetos 
