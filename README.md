@@ -4,7 +4,7 @@ Aqui você vai encontrar alguns dos meus estudos e projetos voltados a front-end
 
 [![Linkedin: Caroline Shimada](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caroline-shimada-salewski/)](https://www.linkedin.com/in/caroline-shimada-salewski/)
 
-## ⚡ Tecnologias utilizadas
+## ⚡ Tecnologias utilizadas nos projetos 
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
