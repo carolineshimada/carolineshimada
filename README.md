@@ -1,6 +1,7 @@
-<h1> Olá  👋
+<h1> Olá  👋</h1>
+<h1>
 Bem vindo(a) ao meu perfil ! 
-  </h1>
+ </h1>
   
 
 Aqui você vai encontrar alguns dos meus estudos e projetos voltados a front-end, e um pouco de back-end :)
