@@ -2,9 +2,6 @@
 Bem vindo(a) ao meu perfil ! 
   </h1>
   
-  <h1 align="center">< Hello Word /> </h1>
-<h3 align="center"> Soy Juliana! 🖖🏽 <br> Desenvolvedora Fron-End Junior 👩🏽‍💻💻 </h3>
-
 
 Aqui você vai encontrar alguns dos meus estudos e projetos voltados a front-end, e um pouco de back-end :)
 
