@@ -4,6 +4,14 @@ Aqui você vai encontrar alguns dos meus estudos e projetos voltados a front-end
 
 [![Linkedin: Caroline Shimada](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caroline-shimada-salewski/)](https://www.linkedin.com/in/caroline-shimada-salewski/)
 
+
+- 🔭 Atual estudante da Laboratória(bootcamp intensivo de 6 meses em programação front-end).
+- 🌱 Em meus estudos atualmente estou aprendendo mais sobre back-end(node.js, banco de dados).
+- 👯 Espero poder colaborar no estudo de outras pessoas também com os projetos que desenvolvi =]
+
+-->
+
+
 ## ⚡ Tecnologias utilizadas nos projetos 
 
 
@@ -26,11 +34,4 @@ Aqui você vai encontrar alguns dos meus estudos e projetos voltados a front-end
 
 <!--
 **carolineshimada/carolineshimada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- 🔭 Atual estudante da Laboratória(bootcamp intensivo de 6 meses em programação front-end).
-- 🌱 Em meus estudos atualmente estou aprendendo mais sobre back-end(node.js, banco de dados).
-- 👯 Espero poder colaborar no estudo de outras pessoas também com os projetos que desenvolvi =]
-
--->
 
