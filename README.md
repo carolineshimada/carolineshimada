@@ -32,6 +32,7 @@ Aqui você vai encontrar alguns dos meus estudos e projetos voltados a front-end
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-2C2255?style=flat-square&logo=postman&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-heroku-2C2255?style=flat-square&logo=heroku&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 
 
 
@@ -74,5 +75,5 @@ Here you will find some of my studies and projects focused on the front-end, and
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-2C2255?style=flat-square&logo=postman&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-heroku-2C2255?style=flat-square&logo=heroku&logoColor=white)
-
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 
