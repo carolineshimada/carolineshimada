@@ -1,4 +1,3 @@
-🇧🇷 Versão Brasileira
 
 <h1> Olá 👋 Bem vindo(a) ao meu perfil ! </h1>
 
