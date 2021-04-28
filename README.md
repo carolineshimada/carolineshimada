@@ -32,8 +32,10 @@ Aqui você vai encontrar alguns dos meus estudos e projetos voltados a front-end
 ![Postman](https://img.shields.io/badge/-Postman-2C2255?style=flat-square&logo=postman&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-heroku-2C2255?style=flat-square&logo=heroku&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
-
-
-
+![TypeScript](https://img.shields.io/badge/-typecript-black?style=flat-square&logo=typescript)
+![Beekeeper](https://img.shields.io/badge/-Beekeeper-yellow?style=flat-square&logo=Beekeeper)
+![Express](https://img.shields.io/badge/-express-red?style=flat-square&logo=express)
+![SocketIo](https://img.shields.io/badge/-SocketIo-black?style=flat-square&logo=socketio)
+![Mustache](https://img.shields.io/badge/-Mustache-brown?style=flat-square&logo=mustache)
 
 
