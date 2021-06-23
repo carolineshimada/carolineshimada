@@ -8,7 +8,7 @@ Aqui você vai encontrar alguns dos meus estudos e projetos voltados a front-end
 
 - 🔭 Graduada pela Laboratória(bootcamp intensivo de 6 meses em programação front-end).
 - 🇧🇷 Brasil - São Paulo - Guarulhos
-- 🌱 Em meus estudos atualmente estou aprendendo mais sobre back-end(node.js, banco de dados).
+- 🌱 Em meus estudos atualmente estou aprendendo mais sobre back-end(c#, banco de dados).
 - 👯 Espero poder colaborar nos seus estudos =]
 
 
@@ -37,5 +37,5 @@ Aqui você vai encontrar alguns dos meus estudos e projetos voltados a front-end
 ![Express](https://img.shields.io/badge/-express-red?style=flat-square&logo=express)
 ![SocketIo](https://img.shields.io/badge/-SocketIo-black?style=flat-square&logo=socketio)
 ![Mustache](https://img.shields.io/badge/-Mustache-brown?style=flat-square&logo=mustache)
-
+![C#](https://img.shields.io/badge/-csharp-orange?style=flat-square&logo=csharp)
 
