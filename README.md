@@ -11,7 +11,7 @@ Aqui você vai encontrar alguns dos meus estudos e projetos voltados a front-end
 - 🌱 Em meus estudos atualmente estou aprendendo mais sobre back-end(c#, banco de dados, .NET).
 - 👯 Espero poder colaborar nos seus estudos =]
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=carolineshimada&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=carolineshimada&show_icons=true&theme=dracula)
 
 
 ## ⚡ Tecnologias utilizadas nos projetos 
