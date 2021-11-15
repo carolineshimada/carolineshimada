@@ -14,6 +14,7 @@ Aqui você vai encontrar alguns dos meus estudos e projetos voltados a front-end
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=carolineshimada&show_icons=true&theme=dracula)
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=carolineshimada)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolineshimada&layout=compact)
 
 
 
