@@ -11,10 +11,10 @@ Aqui você vai encontrar alguns dos meus estudos e projetos voltados a front-end
 - 🌱 Em meus estudos atualmente estou aprendendo mais sobre back-end(c#, banco de dados, .NET).
 - 👯 Espero poder colaborar nos seus estudos =]
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?carolineshimada=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## ⚡ Tecnologias utilizadas nos projetos 
-
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
