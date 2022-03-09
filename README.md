@@ -8,7 +8,7 @@ Aqui você vai encontrar alguns dos meus estudos e projetos voltados a front-end
 
 - 🔭 Graduada pela Laboratória(bootcamp intensivo de 6 meses em programação front-end).
 - 🇧🇷 Brasil - São Paulo - Guarulhos
-- 🌱 Em meus estudos atualmente estou aprendendo mais sobre back-end(c#, banco de dados, .NET).
+- 🌱 Em meus estudos atualmente estou focada em back-end(c#, sql, .NET).
 - 👯 Espero poder colaborar nos seus estudos =]
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=carolineshimada&show_icons=true&theme=dracula)
