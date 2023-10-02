@@ -7,11 +7,11 @@ Here you'll find some of my fullstack studies and projects :)
 [![Linkedin: Caroline Shimada](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caroline-shimada-salewski/)](https://www.linkedin.com/in/caroline-shimada-salewski/)
 
 
-🔭 Graduated from Laboratória (an intensive 6-month front-end programming bootcamp).
-🇧🇷  Brazilian, 
-🇩🇪 Living in Berlin, Germany.
-🌱 I'm currently focusing my studies on back-end (C#, SQL, .NET).
-👯 I hope I can help with your studies =]
+* 🔭 Graduated from Laboratória (an intensive 6-month front-end programming bootcamp).
+* 🇧🇷  Brazilian, 
+* 🇩🇪 Living in Berlin, Germany.
+* 🌱 I'm currently focusing my studies on back-end (C#, SQL, .NET).
+* 👯 I hope I can help with your studies =]
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=carolineshimada&show_icons=true&theme=dracula)
 
