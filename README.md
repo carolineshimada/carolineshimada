@@ -1,22 +1,24 @@
 
-<h1> Olá 👋 Bem vindo(a) ao meu perfil ! </h1>
+<h1> Hello 👋 Welcome to my profile! </h1>
 
-Aqui você vai encontrar alguns dos meus estudos e projetos voltados a front-end, e um pouco de back-end :)
+Here you'll find some of my fullstack studies and projects :)
+
 
 [![Linkedin: Caroline Shimada](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caroline-shimada-salewski/)](https://www.linkedin.com/in/caroline-shimada-salewski/)
 
 
-- 🔭 Graduada pela Laboratória(bootcamp intensivo de 6 meses em programação front-end).
-- 🇧🇷 Brasil - São Paulo - Atibaia
-- 🌱 Em meus estudos atualmente estou focada em back-end(c#, sql, .NET).
-- 👯 Espero poder colaborar nos seus estudos =]
+🔭 Graduated from Laboratória (an intensive 6-month front-end programming bootcamp).
+🇧🇷  Brazilian, 
+🇩🇪 Living in Berlin, Germany.
+🌱 I'm currently focusing my studies on back-end (C#, SQL, .NET).
+👯 I hope I can help with your studies =]
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=carolineshimada&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolineshimada&layout=compact) 
 
 
-## ⚡ Tecnologias utilizadas nos projetos 
+## ⚡ Techs
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
