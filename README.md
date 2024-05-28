@@ -7,7 +7,7 @@ Here you'll find some of my fullstack studies and projects :)
 [![Linkedin: Caroline Shimada](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caroline-shimada-salewski/)](https://www.linkedin.com/in/caroline-shimada-salewski/)
 
 
-* 🔭 Graduated from Laboratória (an intensive 6-month front-end programming bootcamp).
+* 🔭 Graduated from [Laboratória](https://bootcamp.laboratoria.la/es/)
 * 🇧🇷  Brazilian, 
 * 🇩🇪 Living in Berlin, Germany.
 * 🌱 I'm currently focusing my studies on back-end (Java/Spring, C#/.NET).
