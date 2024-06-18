@@ -10,7 +10,7 @@ Here you'll find some of my fullstack studies and projects :)
 * 🔭 Graduated from [Laboratória](https://bootcamp.laboratoria.la/es/)
 * 🇧🇷  Brazilian, 
 * 🇩🇪 Living in Berlin, Germany.
-* 🌱 I'm currently focusing my studies on back-end (Java/Spring, C#/.NET).
+* 🌱 I'm currently focusing my studies on back-end (Java/Spring).
 * 👯 I hope I can help with your studies =]
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=carolineshimada&show_icons=true&theme=dracula)
